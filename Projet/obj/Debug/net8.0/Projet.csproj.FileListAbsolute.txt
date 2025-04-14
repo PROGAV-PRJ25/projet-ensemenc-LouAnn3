@@ -1,0 +1,15 @@
+/Users/vanu.bala/projet-ensemenc-balachandran-surget/projet-ensemenc-balachandran-surget/Projet/bin/Debug/net8.0/Projet
+/Users/vanu.bala/projet-ensemenc-balachandran-surget/projet-ensemenc-balachandran-surget/Projet/bin/Debug/net8.0/Projet.deps.json
+/Users/vanu.bala/projet-ensemenc-balachandran-surget/projet-ensemenc-balachandran-surget/Projet/bin/Debug/net8.0/Projet.runtimeconfig.json
+/Users/vanu.bala/projet-ensemenc-balachandran-surget/projet-ensemenc-balachandran-surget/Projet/bin/Debug/net8.0/Projet.dll
+/Users/vanu.bala/projet-ensemenc-balachandran-surget/projet-ensemenc-balachandran-surget/Projet/bin/Debug/net8.0/Projet.pdb
+/Users/vanu.bala/projet-ensemenc-balachandran-surget/projet-ensemenc-balachandran-surget/Projet/obj/Debug/net8.0/Projet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vanu.bala/projet-ensemenc-balachandran-surget/projet-ensemenc-balachandran-surget/Projet/obj/Debug/net8.0/Projet.AssemblyInfoInputs.cache
+/Users/vanu.bala/projet-ensemenc-balachandran-surget/projet-ensemenc-balachandran-surget/Projet/obj/Debug/net8.0/Projet.AssemblyInfo.cs
+/Users/vanu.bala/projet-ensemenc-balachandran-surget/projet-ensemenc-balachandran-surget/Projet/obj/Debug/net8.0/Projet.csproj.CoreCompileInputs.cache
+/Users/vanu.bala/projet-ensemenc-balachandran-surget/projet-ensemenc-balachandran-surget/Projet/obj/Debug/net8.0/Projet.sourcelink.json
+/Users/vanu.bala/projet-ensemenc-balachandran-surget/projet-ensemenc-balachandran-surget/Projet/obj/Debug/net8.0/Projet.dll
+/Users/vanu.bala/projet-ensemenc-balachandran-surget/projet-ensemenc-balachandran-surget/Projet/obj/Debug/net8.0/refint/Projet.dll
+/Users/vanu.bala/projet-ensemenc-balachandran-surget/projet-ensemenc-balachandran-surget/Projet/obj/Debug/net8.0/Projet.pdb
+/Users/vanu.bala/projet-ensemenc-balachandran-surget/projet-ensemenc-balachandran-surget/Projet/obj/Debug/net8.0/Projet.genruntimeconfig.cache
+/Users/vanu.bala/projet-ensemenc-balachandran-surget/projet-ensemenc-balachandran-surget/Projet/obj/Debug/net8.0/ref/Projet.dll
